@@ -1,2 +1,2 @@
-# My-Learning-Ground-Learn-To-Program-With-Python
+# My-Learning-Ground
 learning, testing, capstone projects, scripts and more
